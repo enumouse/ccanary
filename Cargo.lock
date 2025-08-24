@@ -5,3 +5,10 @@ version = 4
 [[package]]
 name = "ccanary"
 version = "0.1.0"
+dependencies = [
+ "ccanary_driver",
+]
+
+[[package]]
+name = "ccanary_driver"
+version = "0.0.0"
