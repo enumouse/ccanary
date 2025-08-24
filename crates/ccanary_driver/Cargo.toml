@@ -4,3 +4,4 @@ version = "0.0.0"
 edition = "2024"
 
 [dependencies]
+ccanary_lexer = { path = "../ccanary_lexer" }

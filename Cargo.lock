@@ -12,3 +12,10 @@ dependencies = [
 [[package]]
 name = "ccanary_driver"
 version = "0.0.0"
+dependencies = [
+ "ccanary_lexer",
+]
+
+[[package]]
+name = "ccanary_lexer"
+version = "0.0.0"
